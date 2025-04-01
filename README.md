@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+# 👋 Hi there! I'm Faith <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-#### Full-Stack Developer | Open Source Enthusiast
+#### Full-Stack Developer | Data
 
 ---
 
