@@ -1,10 +1,6 @@
-# 👋 Hi there! I'm Braxton 
+# 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
 ### Full-Stack Developer | Open Source Enthusiast
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" />
-</p>
 
 ---
 
@@ -29,7 +25,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 1rem;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&hide_border=true&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" height="195" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" height="195" alt="Top Languages"/>
+<div align="center" style="display: flex; justify-content: space-between; gap: 1rem; margin: 1rem 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&border_radius=10&border=7A7ADB&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" height="195" alt="GitHub Streak" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&border_radius=10&border=7A7ADB&bg_color=0D1117&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" height="195" alt="Top Languages" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 10px;"/>
 </div>
