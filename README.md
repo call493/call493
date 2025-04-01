@@ -2,9 +2,11 @@
 
 #### Full-Stack Developer | Open Source Enthusiast
 
-#### Tech Stack
+---
 
-<p align="left">
+### Tech Stack
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -19,7 +21,11 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 </p>
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 1rem; margin: 1rem 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" height="195" alt="GitHub Streak" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" height="195" alt="Top Languages" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px;"/>
+---
+
+### GitHub Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1rem 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" height="180" width="400" alt="GitHub Streak" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" height="180" width="400" alt="Top Languages" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; max-width: 100%;"/>
 </div>
