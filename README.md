@@ -37,7 +37,7 @@
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=call493" alt="Braxton's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=call493" alt="Braxton's LangStat" /> <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=call493&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Braxton's language" height="192px"  width="500px"/>
 </div>
 
@@ -49,7 +49,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/call493/"><img alt="Braxton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=braxtonusername&custom_title=Braxton's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/call493/"><img alt="Braxton's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=call4&custom_title=Braxton's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
