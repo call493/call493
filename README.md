@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Faith <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+# 👋 Hi there! I'm Faith <img src="https://avatars.githubusercontent.com/u/148770385?s=48&v=4" alt="Faithviews" align="right"/>
 
-#### Full-Stack Developer | Data
+#### Full-Stack Developer | Data Scientist
 
 ---
 
