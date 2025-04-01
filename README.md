@@ -22,7 +22,7 @@
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=call493&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="call493's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/username=call493&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="call493's Github Stats">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=call493" alt="Braxton's LangStat" /> <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=call493&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Braxton's language" height="192px"  width="500px"/>
 </div>
