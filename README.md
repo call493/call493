@@ -1,6 +1,10 @@
 # 👋 Hi there! I'm Braxton 
 
-### Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+### Full-Stack Developer | Open Source Enthusiast
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=blueviolet&style=flat" alt="braxtonusername" />
+</p>
 
 ---
 
@@ -22,18 +26,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&langs_count=8" />
-</div>
-
----
-
-### 👀 Profile Views 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=blueviolet&style=flat" alt="braxtonusername" />
-</p>
