@@ -1,9 +1,6 @@
-# Hi there! I'm Braxton
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Brax" /></a>
-</p>
+# Hi there! I'm Braxton
 
 <!-- Profile Views -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=0e75b6&style=flat" alt="braxtonusername" />
