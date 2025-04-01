@@ -1,11 +1,9 @@
 # Hi there! I'm Braxton
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=0e75b6&style=flat" alt="braxtonusername" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=0e75b6&style=flat" alt="braxtonusername" />
 </p>
 
- <!-- About section -->
----
 ### Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
