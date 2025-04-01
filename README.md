@@ -1,30 +1,39 @@
-# Hi there! I'm Braxton
+# 👋 Hi there! I'm Braxton 
 
-<!-- Profile Views -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=0e75b6&style=flat" alt="braxtonusername" />
+### Full-Stack Developer | Open Source Enthusiast | Tech Explorer
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
 </p>
 
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
+---
 
-<div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=call493&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Braxton's LangStat" /> <br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=call493&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Braxton's language" height="192px"  width="500px"/>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical" />
 </div>
 
+<div align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&langs_count=8" />
+</div>
 
-<!-- GitHub section: END -->
+---
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=0e75b6&style=flat" alt="braxtonusername" />
+### 👀 Profile Views 
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=blueviolet&style=flat" alt="braxtonusername" />
 </p>
-
-<!-- THE END -->
