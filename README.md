@@ -35,6 +35,6 @@
 ### GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.2rem; margin: 1.5rem 0; align-items: stretch;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fay-chebby&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 50%; min-width: 300px; height: 195px; object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fay-chebby&layout=compact&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 50%; min-width: 300px; height: 195px; object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fay-chebby&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 320px; height: 195px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fay-chebby&layout=compact&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 320px; height: 195px; object-fit: cover;"/>
 </div>
