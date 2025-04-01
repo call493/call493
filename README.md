@@ -1,4 +1,4 @@
-### Hi there! I'm Braxton
+# Hi there! I'm Braxton
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=0e75b6&style=flat" alt="braxtonusername" />
