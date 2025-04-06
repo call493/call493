@@ -34,8 +34,8 @@
   <!-- GitHub Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" alt="GitHub Streak" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7A7ADB&text_color=7A7ADB" alt="Top Languages" />
+  <!-- Top Languages (with border) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&langs_count=8&bg_color=0D1117&title_color=7A7ADB&text_color=7A7ADB" alt="Top Languages" />
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical&bg_color=0D1117&title_color=7A7ADB&text_color=7A7ADB&icon_color=7A7ADB&hide_border=true" alt="GitHub Stats" />
