@@ -40,9 +40,3 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical&bg_color=0D1117&title_color=7A7ADB&text_color=7A7ADB&icon_color=7A7ADB&hide_border=true" alt="GitHub Stats" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=call493&bg_color=0D1117&color=7A7ADB&line=7A7ADB&point=7A7ADB&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
