@@ -35,6 +35,13 @@
 ### GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.2rem; margin: 1.5rem 0; align-items: stretch;">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=call493&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px; height: 195px; object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px; height: 195px; object-fit: cover;"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px; height: 195px; object-fit: cover;"/>
+
+  <!-- Language Stats (Full Layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=donut&theme=radical&border_radius=15&border=7A7ADB&background=0D1117&stroke=7A7ADB&title_color=7A7ADB&text_color=C9D1D9&icon_color=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 100%; min-width: 300px; height: auto; object-fit: cover;"/>
 </div>
+
