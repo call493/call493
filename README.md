@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Braxton  
+# 👋 Hi, I’m Braxton   <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" align="right"/>
+
 *Full-Stack Developer & Open Source Enthusiast*  
-<img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" align="right"/>
 
 ---
 
@@ -36,7 +36,3 @@
 
   <!-- Top Languages (with border) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&langs_count=8&bg_color=0D1117&title_color=7A7ADB&text_color=7A7ADB" alt="Top Languages" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical&bg_color=0D1117&title_color=7A7ADB&text_color=7A7ADB&icon_color=7A7ADB&hide_border=true" alt="GitHub Stats" />
-</p>
