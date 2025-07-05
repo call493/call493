@@ -37,6 +37,3 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px; height: 195px; object-fit: cover;"/>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
-
-
