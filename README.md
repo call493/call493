@@ -1,6 +1,11 @@
-# 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=braxtonusername&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+# 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+### Full-Stack Developer | Open Source Enthusiast
 
-#### Full-Stack Developer | Open Source Enthusiast
+## 🚀 What I'm Up To
+
+- 🔭 Currently learning **TypeScript**
+- 🧠 Exploring the world of **Machine Learning**
+- 🤝 Open to collaborating on **open-source projects**
 
 ---
 
