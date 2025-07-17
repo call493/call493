@@ -1,10 +1,5 @@
 # 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-<!-- Single-line Joke at the top -->
-<div align="center" style="margin: 1rem 0; padding: 0.8rem; background: #0D1117; border-radius: 10px; box-shadow: 0 0 12px #7A7ADB;">
-  <img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=%237A7ADB&aColor=%237A7ADB&bgColor=%230d1117" alt="Dev Jokes" style="height: 28px;"/>
-</div>
-
 ---
 ### Full-Stack Developer | Open Source Enthusiast
 
@@ -32,7 +27,10 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
-
+<!-- Joke at the top -->
+<div align="center" style="margin: 1.5rem 0;">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%237A7ADB&aColor=%237A7ADB&borderColor=%237A7ADB&hideBorder" alt="Dev Jokes" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 0 15px #7A7ADB;"/>
+</div>
 ---
 ### GitHub Stats
 
