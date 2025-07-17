@@ -1,10 +1,5 @@
 # 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-<!-- Left-aligned Joke -->
-<div align="left" style="margin: 1rem 0; padding: 0.8rem; background: #0D1117; border-radius: 10px; box-shadow: 0 0 12px #7A7ADB; width: fit-content;">
-  <img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=%237A7ADB&aColor=%237A7ADB&bgColor=%230d1117" alt="Dev Jokes" style="height: 28px;"/>
-</div>
-
 ---
 ### Full-Stack Developer | Open Source Enthusiast
 
@@ -32,6 +27,11 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
+
+---
+
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
 ### GitHub Stats
