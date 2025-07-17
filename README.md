@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-<!-- Joke at the top -->
-<div align="center" style="margin: 1.5rem 0;">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%237A7ADB&aColor=%237A7ADB&borderColor=%237A7ADB&hideBorder" alt="Dev Jokes" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 0 15px #7A7ADB;"/>
+<!-- Single-line Joke at the top -->
+<div align="center" style="margin: 1rem 0; padding: 0.8rem; background: #0D1117; border-radius: 10px; box-shadow: 0 0 12px #7A7ADB;">
+  <img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=%237A7ADB&aColor=%237A7ADB&bgColor=%230d1117" alt="Dev Jokes" style="height: 28px;"/>
 </div>
 
 ---
