@@ -34,4 +34,14 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.2rem; margin: 1.5rem 0; align-items: stretch;">  
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px; height: 195px; object-fit: cover;"/>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  
+  <!-- Jokes Card - Styled to match your theme -->
+  <div style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px; height: 195px; background: #0D1117; display: flex; justify-content: center; align-items: center; padding: 1rem;">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%237A7ADB&aColor=%237A7ADB&borderColor=%237A7ADB" alt="Dev Jokes" style="height: 100%; width: 100%; border-radius: 10px;"/>
+  </div>
+</div>
+
+<!-- Additional stats if you want -->
+<div style="display: flex; justify-content: center; margin-top: 1.5rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&bg_color=0D1117&title_color=7A7ADB&text_color=FFFFFF" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 48%; min-width: 300px;"/>
+</div>
