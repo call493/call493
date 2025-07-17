@@ -1,20 +1,16 @@
 # 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-<!-- Joke on the left with intro text on right -->
-<div style="display: flex; gap: 1.5rem; align-items: center; margin: 1.5rem 0;">
-  <!-- Joke Container -->
-  <div style="flex: 1; min-width: 250px; background: #0D1117; padding: 0.8rem; border-radius: 10px; box-shadow: 0 0 12px #7A7ADB;">
-    <img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=%237A7ADB&aColor=%237A7ADB&bgColor=%230d1117" alt="Dev Jokes" style="height: 28px; width: 100%;"/>
-  </div>
-  
-  <!-- Intro Text -->
-  <div style="flex: 1;">
-    ### Full-Stack Developer | Open Source Enthusiast
-    - 🔭 Currently learning TypeScript
-    - 🧠 Exploring the world of Machine Learning
-    - 🤝 Open to collaborating on open-source projects
-  </div>
+<!-- Left-aligned Joke -->
+<div align="left" style="margin: 1rem 0; padding: 0.8rem; background: #0D1117; border-radius: 10px; box-shadow: 0 0 12px #7A7ADB; width: fit-content;">
+  <img src="https://readme-jokes.vercel.app/api?theme=onedark&hideBorder&qColor=%237A7ADB&aColor=%237A7ADB&bgColor=%230d1117" alt="Dev Jokes" style="height: 28px;"/>
 </div>
+
+---
+### Full-Stack Developer | Open Source Enthusiast
+
+- 🔭 Currently learning TypeScript
+- 🧠 Exploring the world of Machine Learning
+- 🤝 Open to collaborating on open-source projects
 
 ---
 
