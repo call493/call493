@@ -1,12 +1,6 @@
 # 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-### Full-Stack Developer | Open Source Enthusiast
-
-- 🔭 Currently learning TypeScript
-- 🧠 Exploring the world of Machine Learning
-- 🤝 Open to collaborating on open-source projects
-
----
+#### Full-Stack Developer | Open Source Enthusiast
 
 ### Tech Stack
 
@@ -38,7 +32,3 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; margin: 1.5rem 0; align-items: stretch;">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 55%; min-width: 300px; height: 195px; object-fit: cover;"/>
-  
-  <!-- Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&bg_color=0D1117&title_color=7A7ADB&text_color=FFFFFF&hide_border=true" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 40%; min-width: 250px; height: 195px;"/>
-</div>
