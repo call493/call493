@@ -35,26 +35,4 @@
 
 ### 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=call493&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,figma,tailwind,py,java,cpp&perline=7" />
-</div>
-
-### 🐍 My Contributions
-
-![Snake animation](https://github.com/call493/call493/blob/output/github-contribution-grid-snake.svg)
-
-### 😄 Random Dev Joke
-
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fraw.githubusercontent.com%2FABSphreak%2Freadme-jokes%2Fmaster%2Fsrc%2Fjokes.js&style=default&type=code"></script>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="call493" /> 
-  • 
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcall493"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcall493&label=VISITORS&countColor=%237A7ADB" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=call493&theme=onedark&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
