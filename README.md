@@ -32,7 +32,3 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; margin: 1.5rem 0; align-items: stretch;">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 55%; min-width: 300px; height: 195px; object-fit: cover;"/>
-
-### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=call493&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
