@@ -25,7 +25,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
-### GitHub Stats XD
+### GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; margin: 1.5rem 0; align-items: stretch;">
   <!-- GitHub Streak -->
