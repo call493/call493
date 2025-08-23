@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Braxton M. <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+# 👋 Hi there! I'm Braxton <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
 #### Full-Stack Developer | Open Source Enthusiast
 
