@@ -1,16 +1,8 @@
-# 👋 Hey there, I'm Braxton M. <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" align="right" alt="Profile views"/>
+# 👋 Hi, I'm Braxton M. <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
-### 💻 Web Developer | 🔓 Open Source Enthusiast | 🛠️ Code Tinkerer
+#### Web Developer | Open Source Enthusiast
 
----
-
-🚀 I'm passionate about creating responsive web apps, contributing to open source, and constantly learning new technologies. Whether it's building with JavaScript frameworks or diving into systems with C++, I'm always pushing code and pixels.
-
----
-
-### 🧠 Tech Stack
-
-<div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1rem 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.2rem 0;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -29,21 +21,12 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" width="100%" alt="GitHub Streak"/>
-
----
-
-### 😂 Random Dev Joke
-
-> <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Dev Joke"></a>
+### Random dev joke for you :D
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
+### GitHub Stats
 
-- 🌐 [Portfolio](https://yourwebsite.dev) *(optional)*
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; margin: 1.5rem 0; align-items: stretch;">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 55%; min-width: 300px; height: 195px; object-fit: cover;"/>
