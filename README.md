@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mandara <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
 #### Web Developer | UI/UX Designer
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.2rem 0;">
@@ -18,8 +20,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
-
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 ---
 
