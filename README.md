@@ -34,11 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=call493&theme=radical&background=0D1117&ring=7A7ADB&currStreakNum=7A7ADB&sideLabels=7A7ADB&sideNums=7A7ADB&dates=7A7ADB&fire=7A7ADB" style="box-shadow: 0 0 15px #7A7ADB; border-radius: 15px; width: 55%; min-width: 300px; height: 195px; object-fit: cover;"/>
 </div>
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=call493&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mathewcopeland/mathewcopeland/main/wave.svg" width="100px">
-</p>
-
