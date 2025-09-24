@@ -1,4 +1,4 @@
-# 👋 Hi, I'm B. Mandara <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+# 👋 Hi, I'm Mandara <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
