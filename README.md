@@ -2,7 +2,7 @@
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
-#### Web Developer | UI/UX Designer | Open Source Enthusiast
+#### Web Developer | UI/UX Designer
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.2rem 0;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
