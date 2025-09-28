@@ -1,10 +1,22 @@
-# 👋 Hi, I'm Mandara <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="braxtonviews" align="right"/>
+<h1 align="center">
+  👋 Hi, I'm Someone
+  <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="Profile views" align="right"/>
+</h1>
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+<blockquote align="center">
+  <em>💬 "Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+</blockquote>
 
-#### Web Developer | UI/UX Designer
+<p align="center">
+  <strong>💻 Web Developer</strong> • <strong>🎨 UI/UX Designer</strong>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.2rem 0;">
+---
+
+### 🛠️ Tech Stack
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin: 1.5rem 0;">
+
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -22,7 +34,19 @@
 </div>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=call493)
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
 ---
-### Random dev joke for you
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> 
+
+### 😄 Random Dev Joke
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Dev Joke">
+  </a>
+</p>
