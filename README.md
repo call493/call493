@@ -1,13 +1,13 @@
-<h1 align="center">
+<h1 align="left">
   👋 Hi, I'm B. Mandara
   <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="Profile views" align="right"/>
 </h1>
 
-<blockquote align="center">
+<blockquote align="left">
   <em>💬 "Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </blockquote>
 
-<p align="center">
+<p align="left">
   <strong>💻 Web Developer</strong> • <strong>🎨 UI/UX Designer</strong>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin: 1.5rem 0;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin: 1.5rem 0;">
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -37,7 +37,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
@@ -45,7 +45,7 @@
 
 ### 😄 Random Dev Joke
 
-<p align="center">
+<p align="left">
   <a href="https://readme-jokes.vercel.app">
     <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Dev Joke">
   </a>
