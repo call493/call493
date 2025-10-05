@@ -4,16 +4,16 @@
 </h1>
 
 <blockquote align="left">
-  <em>💬 "Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+  <em> "Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </blockquote>
 
 <p align="left">
-  <strong>💻 Web Developer</strong> • <strong>🎨 UI/UX Designer</strong>
+  <strong>Web Developer</strong> • <strong>UI/UX Designer</strong>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin: 1.5rem 0;">
 
