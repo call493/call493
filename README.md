@@ -35,14 +35,6 @@
 
 ---
 
-### GitHub Streak
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ### Random Dev Joke!
 
 <p align="left">
