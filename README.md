@@ -7,10 +7,6 @@
   <em> "Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </blockquote>
 
-<p align="left">
-  <strong>Web Developer</strong> • <strong>UI/UX Designer</strong>
-</p>
-
 ---
 
 ### Tech Stack
