@@ -3,9 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="Profile views" align="right"/>
 </h1>
 
-<blockquote align="left">
   <em> "Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</blockquote>
 
 ---
 
