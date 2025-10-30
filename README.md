@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/call493">
@@ -64,36 +64,8 @@
 
 ---
 
-## 🌟 Featured Projects
 
-Here are some of my notable projects:
-
-- **[Project One](https://github.com/call493/project-one)** - A full-stack web application built with React and Node.js
-- **[Project Two](https://github.com/call493/project-two)** - Machine learning model for predictive analysis
-- **[Project Three](https://github.com/call493/project-three)** - Mobile-responsive e-commerce platform
-
----
-
-## 🤝 Let's Connect
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1rem 0;">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
----
-
-## 😄 Random Dev Joke!
+## Random Dev Joke!
 
 <p align="center">
   <a href="https://readme-jokes.vercel.app">
