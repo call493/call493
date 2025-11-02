@@ -1,5 +1,4 @@
 <h1 align="left">
-  👋 Hi, I'm B. Mandara
   <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=7A7ADB&style=flat" alt="Profile views" align="right"/>
 </h1>
 
