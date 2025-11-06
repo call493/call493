@@ -46,8 +46,6 @@
 
 ---
 
-## GitHub Stats
-
 <div align="center">
   <a href="https://github.com/call493">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
