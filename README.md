@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1rem 0;">
