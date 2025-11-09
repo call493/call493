@@ -6,8 +6,6 @@
 
 ---
 
-## Tech Stack
-
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1rem 0;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
