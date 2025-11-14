@@ -32,15 +32,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/call493">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=call493&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call493&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
-
-<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div> -->
+</div>
 
 ---
 
