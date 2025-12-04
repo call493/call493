@@ -13,10 +13,9 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="60%" />
       </td>
       <td width="50%" align="center">
-        <h3>🛠 Tech Stack</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,docker,vscode&theme=dark&perline=7" />
         </a>
