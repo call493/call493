@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/call493">Call493</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1>Hi there, I'm <a href="https://github.com/call493">B. Mandara</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=f75c7e&style=flat-square" alt="Profile views" />
 </div>
 
@@ -10,12 +10,11 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800" />
 </div>
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,docker,vscode&theme=dark" />
@@ -24,7 +23,6 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
   <table align="center">
     <tr>
