@@ -9,17 +9,15 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="auto" />
-</div>
-
----
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,docker,vscode&theme=dark" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="auto" />
+</div>
 
 ---
 
