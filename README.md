@@ -16,6 +16,9 @@
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
       </td>
       <td width="50%" align="center">
+        <a href="https://github.com/call493/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;4%2B+Years+Coding;Always+Learning&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=26" />
+  </a>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,docker,vscode&theme=dark&perline=7" />
         </a>
