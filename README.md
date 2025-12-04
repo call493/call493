@@ -12,8 +12,8 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="60%" />
+      <td width="30%" align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
       </td>
       <td width="50%" align="center">
         <a href="https://skillicons.dev">
