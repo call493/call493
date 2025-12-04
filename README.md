@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/call493/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;10%2B+Years+Coding;Always+Learning&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=26" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;4%2B+Years+Coding;Always+Learning&font=Fira+Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=26" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="800" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="auto" />
 </div>
 
 ---
