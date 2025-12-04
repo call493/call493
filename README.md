@@ -9,9 +9,9 @@
 ---
 ## Github Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xurde24&theme=2077" height="180em" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=call493&theme=2077" height="180em" />
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
