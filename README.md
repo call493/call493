@@ -14,14 +14,6 @@
   
   <br/>
 
-  <h3>🤝 Connect with Me</h3>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-f75c7e?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-f75c7e?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
   <br/><br/>
 
   <a href="https://skillicons.dev">
