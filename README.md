@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/call493">B. Mandara</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1>Hi there, I'm <a href="https://github.com/call493">Mandara</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=f75c7e&style=flat-square" alt="Profile views" />
 </div>
 
@@ -15,17 +15,3 @@
   <br/>
 
   <br/><br/>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mongodb,mysql,git,docker,vscode&theme=dark&perline=14" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=call493&theme=radical" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
