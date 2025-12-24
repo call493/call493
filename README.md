@@ -17,10 +17,7 @@
 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
   
-  <br/><br/>
-
-  <h3>🎁 <a href="https://github.com/call493?tab=repositories">Unwrap my Code</a> 🎁</h3>
-  
+  <br/><br/>  
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=dark&ring=d32f2f&fire=d32f2f&currStreakLabel=d32f2f&hide_border=true" alt="GitHub Streak" />
