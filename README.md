@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-  <h1>❄️ Hi there, I'm <a href="https://github.com/call493" style="color: #d32f2f;">B. Mandara</a>! 🎅</h1>
+  <h1>Hi there, I'm <a href="https://github.com/call493" style="color: #d32f2f;">B. Mandara</a>!</h1>
 
   <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=d32f2f&style=flat-square" alt="Profile views" />
 </div>
