@@ -19,12 +19,8 @@
   
   <br/><br/>  
   <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=call493&theme=dark&ring=d32f2f&fire=d32f2f&currStreakLabel=d32f2f&hide_border=true" alt="GitHub Streak" />
   
   <br/>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=call493&theme=default&bg_color=0d1117&title_color=d32f2f&text_color=ffffff&icon_color=2ea043" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/31859737/172605537-8e6f1647-3765-45d6-a24c-9f697472ec40.gif" width="100%"/>
