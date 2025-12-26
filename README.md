@@ -16,11 +16,3 @@
   <br/>
 
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
-  
-  <br/><br/>  
-  <br/>
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=call493&theme=default&bg_color=0d1117&title_color=d32f2f&text_color=ffffff&icon_color=2ea043" />
-</div>
