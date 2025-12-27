@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/call493/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;Having+a+Holly+Jolly+Christmas!&font=Fira+Code&center=true&width=500&height=50&color=d32f2f&vCenter=true&pause=1000&size=26" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;font=Fira+Code&center=true&width=500&height=50&color=d32f2f&vCenter=true&pause=1000&size=26" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/31859737/172605537-8e6f1647-3765-45d6-a24c-9f697472ec40.gif" width="100%"/>
