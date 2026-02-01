@@ -1,18 +1,43 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+# Hi, I'm [Your Name].
 
-  <h1>Hi there, I'm <a href="https://github.com/call493" style="color: #d32f2f;">B. Mandara</a>!</h1>
+<p align="left">
+  <em>Software Engineer • Open Source Enthusiast • Minimalist</em>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=call493&label=Profile%20views&color=d32f2f&style=flat-square" alt="Profile views" />
-</div>
+<br/>
 
-<div align="center">
-  <a href="https://github.com/call493/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;&center=true&width=500&height=50&color=d32f2f&vCenter=true&pause=1000&size=26" />
+> "Simplicity is the ultimate sophistication."
+
+<br/>
+
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-216e39?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-216e39?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-216e39?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-216e39?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-216e39?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-216e39?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-216e39?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-216e39?style=flat-square&logo=amazon-aws&logoColor=white)
+
+<br/>
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&title_color=216e39&icon_color=216e39" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=216e39" alt="Languages" />
+</p>
+
+<br/>
+
+---
+
+<p align="left">
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-216e39?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-
-  <img src="https://user-images.githubusercontent.com/31859737/172605537-8e6f1647-3765-45d6-a24c-9f697472ec40.gif" width="100%"/>
-  
-  <br/>
-
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+  <a href="https://linkedin.com/in/yourhandle">
+    <img src="https://img.shields.io/badge/LinkedIn-216e39?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
