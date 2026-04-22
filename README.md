@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:238636&text=B.%20Mandara&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65&font=monospace" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:238636&text=B.%20Mandara&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65&font=monospace" width="100%"/> -->
 
 <svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
 
