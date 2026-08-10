@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:238636&text=B%20Mandara&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Open%20Sourcerer&descSize=22&descColor=FFFFFF&descAlignY=65&font=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,100:238636&text=B.%20Mandara&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Open%20Sourcerer&descSize=22&descColor=FFFFFF&descAlignY=65&font=monospace" width="100%"/>
