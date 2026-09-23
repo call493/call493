@@ -2,7 +2,7 @@
 
 ![Typing Header](https://github-devwidgets.vercel.app/api/typing?text=B.%20Mandara,Fullstack%20Developer,UI/UX%20Designer%20&theme=neon)
 
-![Streak](https://github-devwidgets.vercel.app/api/streak?username=call493&theme=neon)
+![Streak](https://github-devwidgets.vercel.app/api/streak?username=call493&theme=glassmorphism)
 
 <!-- <div align="center">
     <p align='center'>
