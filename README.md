@@ -4,6 +4,8 @@
 
 ![Streak](https://github-devwidgets.vercel.app/api/streak?username=call493&theme=glassmorphism)
 
+![Pacman Username (Terminal Card + CRT Overlay)](https://github-devwidgets.vercel.app/api/pacman?username=octocat&theme=cyberpunk&card=true&crt=true)
+
 <!-- <div align="center">
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=call493&theme=carbon&data=followers,repositories,stars,commits' />
