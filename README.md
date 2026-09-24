@@ -2,7 +2,7 @@
 
 ![Typing Header](https://github-devwidgets.vercel.app/api/typing?text=Ahoy%20Matey!,B.%20Mandara%20here%20,Fullstack%20Developer,UI/UX%20Designer%20&theme=neon)
 
-![Pacman Username (Transparent)](https://github-devwidgets.vercel.app/api/pacman?username=call493&theme=neon)
+![Pacman Username (Transparent)](https://github-devwidgets.vercel.app/api/pacman?username=Mandara&theme=neon)
 
 ![Streak](https://github-devwidgets.vercel.app/api/streak?username=call493&theme=glassmorphism)
 <!-- <div align="center">
