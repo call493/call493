@@ -4,7 +4,6 @@
 
 ![Pacman Username (Transparent)](https://github-devwidgets.vercel.app/api/pacman?username=call493&theme=neon)
 
-![Streak](https://github-devwidgets.vercel.app/api/streak?username=call493&theme=neon)
 <!-- <div align="center">
     <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=call493&theme=carbon&data=followers,repositories,stars,commits' />
